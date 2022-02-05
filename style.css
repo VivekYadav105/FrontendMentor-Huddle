@@ -28,7 +28,7 @@ header{
 h1{
   font-family: var(--heading);  
   font-weight:700;
-  line-height: 1.75;
+  line-height: 1.5;
   font-size: 3rem;
   padding: 1rem;
 }
@@ -67,6 +67,7 @@ i:hover{
 }
 .left{
     min-width: 450px;
+    height: 80%;
     flex-basis: 50%;
 }
 .left img{
